@@ -1,2 +1,3 @@
-# manning-phising-websites-detection
-class assignment: using python pandas and data libraries with jupyter notebook
+# Manning-Phishing-Websites-Detection
+Educational Use Only: Detecting Phishing Websites using Machine Learning and Python
+
